@@ -22,6 +22,6 @@ Helped identify top-performing branches and pricing strategies.
 ## 🌍 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/paschal-ofodile)  
 📊 [GitHub](https://github.com/Paschal-1)  
-📧 paschal@example.com  
+📧 stephenpaschal445@gmail.com
 
 ⭐ *“Data is only valuable when it tells a story and inspires action.”*
