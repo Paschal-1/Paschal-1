@@ -18,7 +18,14 @@ Helped identify top-performing branches and pricing strategies.
 - **Data Visualization:** Power BI, Excel (Charts, PivotTables), Tableau  
 - **Data Management:** SQL (Joins, Aggregations, Cleaning)  
 - **Reporting:** DAX, KPIs, Dashboard Automation  
-- **Soft Skills:** Communication, Business Insight, Customer Understanding  
+- **Soft Skills:** Communication, Business Insight, Customer Understanding
+## 🎓 Certification / Education
+- 🎓 **B.Sc. Applied Biochemistry**  
+  *Nnamdi Azikiwe University, Awka, Anambra State, Nigeria*
+- 🏅 **Data Analytics Certificate**  
+  *Edulight Consulting*
+- 🏅 **Microsoft Power BI Data Analyst**  
+  *Coursera*
 ## 🌍 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/paschal-ofodile)  
 📊 [GitHub](https://github.com/Paschal-1)  
