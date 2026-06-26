@@ -27,7 +27,7 @@ Aceess other projects here.
 - 🎓 **B.Sc. Applied Biochemistry**  
   *Nnamdi Azikiwe University, Awka, Anambra State, Nigeria*
 - 🏅 **Data Analytics Certificate**  
-  *Edulight Consulting*
+  *Edulight Consulting* |
   *Awake to Power Communications Ltd*
 - 🏅 **Microsoft Power BI Data Analyst**  
   *Coursera*
