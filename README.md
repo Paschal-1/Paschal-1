@@ -14,9 +14,12 @@ Uncovered insights that improved campaign ROI by 15% through budget reallocation
 ### [🏪 Walmart Sales Analysis Dashboard](https://github.com/Paschal-1/Walmart-Sales-Analysis-Dashboard)
 Interactive Power BI report analyzing sales, profit trends, and category performance.  
 Helped identify top-performing branches and pricing strategies.
+### [ALL vs AML Analysis](https://github.com/Paschal-1/ALL-AML-Gene-Expression-Analysis)
+Gene expression analysis and machine learning classification of Acute Lymphoblastic Leukemia and Acute Myeloid Leukemia.
+### [Access All Repos](https://github.com/Paschal-1?tab=repositories)
 ## 🧰 Tools & Skills
 - **Data Visualization:** Power BI, Excel (Charts, PivotTables), Tableau  
-- **Data Management:** SQL (Joins, Aggregations, Cleaning)  
+- **Data Management:** Python, SQL (Joins, Aggregations, Cleaning)  
 - **Reporting:** DAX, KPIs, Dashboard Automation  
 - **Soft Skills:** Communication, Business Insight, Customer Understanding
 ## 🎓 Certification / Education
@@ -29,6 +32,8 @@ Helped identify top-performing branches and pricing strategies.
 ## 🌍 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/paschal-ofodile)  
 📊 [GitHub](https://github.com/Paschal-1)  
-📧 stephenpaschal445@gmail.com
+📧 *stephenpaschal445@gmail.com*
+   *ofodilepaschal09@gmail.com*
+   *ofodilepaschalchukwunonso@gmail.com*
 
 ⭐ *“Data is only valuable when it tells a story and inspires action.”*
