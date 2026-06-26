@@ -28,9 +28,9 @@ Aceess other projects here.
   *Nnamdi Azikiwe University, Awka, Anambra State, Nigeria*
 - 🏅 **Data Analytics Certificate**  
   *Edulight Consulting*
+  *Awake to Power Communications Ltd*
 - 🏅 **Microsoft Power BI Data Analyst**  
   *Coursera*
-  **Awake to Power Communications Ltd**
 ## 🌍 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/paschal-ofodile)  
 📊 [GitHub](https://github.com/Paschal-1)  
