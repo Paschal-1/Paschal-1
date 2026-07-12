@@ -30,6 +30,9 @@ Aceess other projects here.
   *Edulight Consulting*
   
   *Awake to Power Communications Ltd*
+
+  *Python for Genomic Data Science — Johns Hopkins University (Coursera)*
+  
 - 🏅 **Microsoft Power BI Data Analyst**  
   *Coursera*
 ## 🌍 Let’s Connect
